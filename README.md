@@ -1,2 +1,4 @@
-# IPD_integrated_product_development
-《华为能，你也能 —— IPD 重构产品研发》
+# 《华为能，你也能 —— IPD 重构产品研发》
+
+由于 GitBook 开始收费，尝试自己本地服务器搭建一个 GitBook，然后跟以前的笔记库逻辑链接在一起。
+
